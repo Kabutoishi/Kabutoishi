@@ -19,7 +19,7 @@ public class TwoArgument {
 	public static void main(String[] args) {
 		
 		//点数を管理する変数の宣言と初期化
-		int pointA = 86;
+		int pointA = 85;
 		int pointB = 32;
 		int pointC = 60;
 		int pointD = 40;
